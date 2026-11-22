@@ -12,12 +12,10 @@ I build web apps that help schools coordinate day-to-day work, and I enjoy makin
 | **[EventHub](https://github.com/manula961/School-Event-Command-Center)** | Discover school events, register, manage waitlists, and check in with digital tickets and QR codes. |
 | **[Egypt Digital Museum](https://github.com/manula961/egypt-digital-museum)** | Browse a searchable artifact collection, follow a historical timeline, and explore objects in an interactive 3D gallery. |
 
-| **[Chronoshift](https://github.com/manula961/chronoshift)** | A web project built with Next.js, React, and TypeScript. |
 | **[Signal Lanka](https://github.com/manula961/Signal-Lanka)** | A bilingual exhibition on the evolution of communication, with a Morse and binary converter and an interactive quiz. |
 | **[LankaNews AI](https://github.com/manula961/lankanews-ai)** | A Sri Lankan news dashboard that gathers RSS feeds and categorizes stories in Sinhala, Tamil, and English. |
 | **[Aegis Password Manager](https://github.com/manula961/password_manager)** | A local password manager prototype with vault search and a password generator. |
 | **[Ask Her Out](https://github.com/manula961/ask-her-out)** | A mobile-friendly interactive mini-site with an animated letter reveal and confetti. |
-| **[StockPilot](https://github.com/manula961/stockpilot)** | Empty repository. |
 
 ## Tools I use
 
