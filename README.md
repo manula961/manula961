@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I’m Manula Wijesekara
 
-<!--
-**manula961/manula961** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web developer in Sri Lanka · School tools and interactive web experiences**
 
-Here are some ideas to get you started:
+I build web apps that help schools coordinate day-to-day work, and I enjoy making collections and stories easier to explore online.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+| Project | What you can do |
+| --- | --- |
+| **[TeachTrack](https://github.com/manula961/teachtrack)** | Track teacher attendance, classroom observations, professional development goals, and progress over time. |
+| **[EventHub](https://github.com/manula961/School-Event-Command-Center)** | Discover school events, register, manage waitlists, and check in with digital tickets and QR codes. |
+| **[Egypt Digital Museum](https://github.com/manula961/egypt-digital-museum)** | Browse a searchable artifact collection, follow a historical timeline, and explore objects in an interactive 3D gallery. |
+
+## Tools I use
+
+TypeScript · JavaScript · React · Next.js · Supabase · Firebase · Three.js
+
+[Browse my public repositories](https://github.com/manula961?tab=repositories)
